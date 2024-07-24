@@ -3,7 +3,8 @@ package calculator;
 import java.util.Objects;
 import java.util.Scanner;
 
-public class App {
+// 연산결과 배열이 없는 계산기
+public class NoArrayCalculator {
 
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);

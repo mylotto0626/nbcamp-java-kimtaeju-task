@@ -1,6 +1,5 @@
-package calculator;
+package Level1;
 
-import java.util.Objects;
 import java.util.Scanner;
 
 // 연산결과 배열이 없는 계산기
